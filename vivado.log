@@ -1,0 +1,21 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:23 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Thu Oct 19 12:01:47 2017
+# Process ID: 5992
+# Current directory: C:/Users/kab/Desktop/workspace/managed_ip_project
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent684 C:\Users\kab\Desktop\workspace\managed_ip_project\managed_ip_project.xpr
+# Log file: C:/Users/kab/Desktop/workspace/managed_ip_project/vivado.log
+# Journal file: C:/Users/kab/Desktop/workspace/managed_ip_project\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/kab/Desktop/workspace/managed_ip_project/managed_ip_project.xpr
+Scanning sources...
+Finished scanning sources
+WARNING: [filemgmt 56-3] IPUserFilesDir: Could not find the directory 'C:/Users/kab/Desktop/workspace/ip_user_files'.
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1700] Loaded user IP repository 'c:/Users/kab/Desktop/workspace/ip_repo/Sample_Generator_1.0'.
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2016.4/data/ip'.
+exit
+INFO: [Common 17-206] Exiting Vivado at Thu Oct 19 12:02:15 2017...
